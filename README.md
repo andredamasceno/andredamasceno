@@ -4,7 +4,7 @@
 
  - 🔭 I’m currently working on a Python Full Stack Development course @ [EBAC](https://ebaconline.com.br)
  - 🌱 I’m currently learning Front-End development in HTML CSS and JS
- - ⚡ Fun fact: I`m an airline pilot with more than 10 year experience flying around the globe :D
+ - ⚡ Fun fact: I`m an airline pilot with more than 10 years experience flying around the globe :D
  
  Contact & Social Media:
 
