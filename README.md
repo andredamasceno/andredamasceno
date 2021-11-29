@@ -2,7 +2,7 @@
 
  I`m Andre! A Lifetime Student/Airline Pilot/Student Software Engineer
 
- - 🔭 I’m currently working on a Python Full Stack Development course @ ]EBAC](https://ebaconline.com.br)
+ - 🔭 I’m currently working on a Python Full Stack Development course @ [EBAC](https://ebaconline.com.br)
  - 🌱 I’m currently learning Front-End development in HTML CSS and JS
  - ⚡ Fun fact: I`m an airline pilot with more than 10 year experience flying around the globe :D
  
